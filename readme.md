@@ -1,1 +1,1 @@
-I plan to create a webiste for a private investment firm. 
+I plan to create a website for a private investment firm. 
